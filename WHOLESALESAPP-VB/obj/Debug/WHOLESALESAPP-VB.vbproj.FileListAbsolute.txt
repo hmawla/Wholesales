@@ -1,0 +1,58 @@
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.MAIN.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.additempage.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.edititemapge.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.login.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.receipt.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.exe.config
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.xml
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.xml
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\salesdata.mdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.BalanceManager.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.ballog.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.changepasswords.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.exe.config
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.exe
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.xml
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.pdb
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\salesdata.mdb
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.exe
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.pdb
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.xml
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbprojResolveAssemblyReference.cache
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.additempage.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.BalanceManager.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.ballog.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.changepasswords.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.edititemapge.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.login.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.MAIN.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.Resources.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.receipt.resources
+E:\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbproj.GenerateResource.Cache
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\salesdata.mdb
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.exe.config
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.exe
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.pdb
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\bin\Debug\Whole Sales Application.xml
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbprojResolveAssemblyReference.cache
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.additempage.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.BalanceManager.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.ballog.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.changepasswords.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.edititemapge.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.login.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.MAIN.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.Resources.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP_VB.receipt.resources
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbproj.GenerateResource.Cache
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\WHOLESALESAPP-VB.vbproj.CoreCompileInputs.cache
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.exe
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.xml
+F:\backupssss\Microsoft Visual Studio 14.0\Projects\WHOLESALESAPP-VB\WHOLESALESAPP-VB\obj\Debug\Whole Sales Application.pdb
